@@ -1,0 +1,21 @@
+.dtp table.dtp-picker-days tr > td {
+    font-weight: 700;
+    font-size: 0.8em;
+    text-align: center;
+    padding: 0.5em 0.3em;
+    width: 14% !important;
+    float: left;
+}
+.dtp-date-view
+    height: 200px;
+    font-size: 10px;
+
+.dtp > .dtp-content {
+    background: #fff;
+    max-width: 300px;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    max-height: 520px;
+    position: relative;
+    left: 50%;
+    top: 218px;
+    margin-left: -150px;
